@@ -2,9 +2,11 @@
 
 Essa é uma aplicação desenvolvida durante o evento Ignite-lab promovido pela rocketseat.
 
-### Deploy da aplicação: 
+### Deploy da aplicação:  <a href="https://ignite-lab-react-gabriel-williams.vercel.app/">Ignite-Lab</a>
+<div style="display:flex">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <a href="https://ignite-lab-react-gabriel-williams.vercel.app/">Deploy da aplicação</a>
+</div>
+
 ### 🚀Frameworks & Library utilizados :
 <div style="display:flex">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
